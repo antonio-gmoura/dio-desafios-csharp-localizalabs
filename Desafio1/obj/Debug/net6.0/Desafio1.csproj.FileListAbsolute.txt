@@ -1,0 +1,15 @@
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\bin\Debug\net6.0\Desafio1.exe
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\bin\Debug\net6.0\Desafio1.deps.json
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\bin\Debug\net6.0\Desafio1.runtimeconfig.json
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\bin\Debug\net6.0\Desafio1.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\bin\Debug\net6.0\ref\Desafio1.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\bin\Debug\net6.0\Desafio1.pdb
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\obj\Debug\net6.0\Desafio1.csproj.AssemblyReference.cache
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\obj\Debug\net6.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\obj\Debug\net6.0\Desafio1.AssemblyInfoInputs.cache
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\obj\Debug\net6.0\Desafio1.AssemblyInfo.cs
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\obj\Debug\net6.0\Desafio1.csproj.CoreCompileInputs.cache
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\obj\Debug\net6.0\Desafio1.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\obj\Debug\net6.0\ref\Desafio1.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\obj\Debug\net6.0\Desafio1.pdb
+D:\Repositories\dio-desafios-csharp-localizalabs\desafio1\obj\Debug\net6.0\Desafio1.genruntimeconfig.cache
