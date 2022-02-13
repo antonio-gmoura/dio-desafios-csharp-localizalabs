@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositories\\dio-desafios-csharp-localizalabs\\Desafio1\\Desafio1.csproj": {}
+    "D:\\Repositories\\dio-desafios-csharp-localizalabs\\desafio2\\Desafio2.csproj": {}
   },
   "projects": {
-    "D:\\Repositories\\dio-desafios-csharp-localizalabs\\Desafio1\\Desafio1.csproj": {
+    "D:\\Repositories\\dio-desafios-csharp-localizalabs\\desafio2\\Desafio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositories\\dio-desafios-csharp-localizalabs\\Desafio1\\Desafio1.csproj",
-        "projectName": "Desafio1",
-        "projectPath": "D:\\Repositories\\dio-desafios-csharp-localizalabs\\Desafio1\\Desafio1.csproj",
+        "projectUniqueName": "D:\\Repositories\\dio-desafios-csharp-localizalabs\\desafio2\\Desafio2.csproj",
+        "projectName": "Desafio2",
+        "projectPath": "D:\\Repositories\\dio-desafios-csharp-localizalabs\\desafio2\\Desafio2.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositories\\dio-desafios-csharp-localizalabs\\Desafio1\\obj\\",
+        "outputPath": "D:\\Repositories\\dio-desafios-csharp-localizalabs\\desafio2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -36,8 +36,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -48,12 +48,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.13, 5.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

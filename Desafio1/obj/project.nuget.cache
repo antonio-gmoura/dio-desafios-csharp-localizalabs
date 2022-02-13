@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "SAkDsUSX6pg1k3qGP5QMVMka9/lxgZLMDl1GujvsKTCT1/Ul5keyHxGJ2QNMCmGAhTZjBi9FSplbYExo1Z19oA==",
-  "success": true,
-  "projectFilePath": "D:\\Repositories\\dio-desafios-csharp-localizalabs\\desafio1\\Desafio1.csproj",
+  "dgSpecHash": "Bf2WWwV7DHVbTlniRHw1pERZtyBsqFrrRJb4pa5Mrw4BlwXY2Q9PAXXWnXunXeD5hcv/EXFDTGbLe5kepwoifQ==",
+  "success": false,
+  "projectFilePath": "D:\\Repositories\\dio-desafios-csharp-localizalabs\\Desafio1\\Desafio1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.NETCore.App.Host.win-x64. Não existe nenhum pacote com esta ID nas origens: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
