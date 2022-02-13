@@ -13,9 +13,9 @@ namespace Desafio2
                 double X = double.Parse(line[0]);
                 double Y = double.Parse(line[1]);
                 if (Y == 0) {
-                Console.WriteLine("divisao impossivel");
+                    Console.WriteLine("divisao impossivel");
                 } else {
-                Console.WriteLine("{0:N1}", (X/Y));
+                    Console.WriteLine("{0:N1}", (X/Y));
                 }
             }
         }
