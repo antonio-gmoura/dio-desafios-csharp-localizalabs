@@ -1,0 +1,15 @@
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\bin\Debug\net6.0\Desafio4Xenlonguinho.exe
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\bin\Debug\net6.0\Desafio4Xenlonguinho.deps.json
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\bin\Debug\net6.0\Desafio4Xenlonguinho.runtimeconfig.json
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\bin\Debug\net6.0\Desafio4Xenlonguinho.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\bin\Debug\net6.0\ref\Desafio4Xenlonguinho.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\bin\Debug\net6.0\Desafio4Xenlonguinho.pdb
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\obj\Debug\net6.0\Desafio4Xenlonguinho.csproj.AssemblyReference.cache
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\obj\Debug\net6.0\Desafio4Xenlonguinho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\obj\Debug\net6.0\Desafio4Xenlonguinho.AssemblyInfoInputs.cache
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\obj\Debug\net6.0\Desafio4Xenlonguinho.AssemblyInfo.cs
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\obj\Debug\net6.0\Desafio4Xenlonguinho.csproj.CoreCompileInputs.cache
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\obj\Debug\net6.0\Desafio4Xenlonguinho.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\obj\Debug\net6.0\ref\Desafio4Xenlonguinho.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\obj\Debug\net6.0\Desafio4Xenlonguinho.pdb
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio4Xenlonguinho\obj\Debug\net6.0\Desafio4Xenlonguinho.genruntimeconfig.cache

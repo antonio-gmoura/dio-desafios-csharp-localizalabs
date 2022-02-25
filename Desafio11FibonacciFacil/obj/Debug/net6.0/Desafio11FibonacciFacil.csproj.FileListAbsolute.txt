@@ -1,0 +1,15 @@
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\bin\Debug\net6.0\Desafio11FibonacciFacil.exe
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\bin\Debug\net6.0\Desafio11FibonacciFacil.deps.json
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\bin\Debug\net6.0\Desafio11FibonacciFacil.runtimeconfig.json
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\bin\Debug\net6.0\Desafio11FibonacciFacil.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\bin\Debug\net6.0\ref\Desafio11FibonacciFacil.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\bin\Debug\net6.0\Desafio11FibonacciFacil.pdb
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\obj\Debug\net6.0\Desafio11FibonacciFacil.csproj.AssemblyReference.cache
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\obj\Debug\net6.0\Desafio11FibonacciFacil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\obj\Debug\net6.0\Desafio11FibonacciFacil.AssemblyInfoInputs.cache
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\obj\Debug\net6.0\Desafio11FibonacciFacil.AssemblyInfo.cs
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\obj\Debug\net6.0\Desafio11FibonacciFacil.csproj.CoreCompileInputs.cache
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\obj\Debug\net6.0\Desafio11FibonacciFacil.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\obj\Debug\net6.0\ref\Desafio11FibonacciFacil.dll
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\obj\Debug\net6.0\Desafio11FibonacciFacil.pdb
+D:\Repositories\dio-desafios-csharp-localizalabs\Desafio11FibonacciFacil\obj\Debug\net6.0\Desafio11FibonacciFacil.genruntimeconfig.cache
